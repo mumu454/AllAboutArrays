@@ -45,6 +45,13 @@ public class Main {
             System.out.println();
         }
        }
+       public static void Pattern2(){
+        for(int rows= 1; rows<7;rows++ ){
+            for(int columns= 0; columns < 7; columns++ ){
+             System.out.print(rows+" ");
+            }
+            System.out.println();
+        }
 
 
 
