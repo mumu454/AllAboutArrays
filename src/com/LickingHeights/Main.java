@@ -11,6 +11,11 @@ public class Main {
 
       //  int[] array = createNumberArray(size, lowestNumber, highestNumber);
           Pattern1();
+          Pattern2();
+         Pattern3();
+         Pattern4();
+        Pattern5();
+
         
 
     }
